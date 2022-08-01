@@ -3,6 +3,7 @@
 
 // sticky in product page
 jQuery(function($){
+  console.log('test');
   //   $(function() {
 
   //     var hieghtThreshold = $(".product-info-wrap").offset().top;
