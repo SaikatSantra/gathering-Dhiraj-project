@@ -3,7 +3,6 @@
 
 // sticky in product page
 jQuery(function($){
-  console.log('test');
   //   $(function() {
 
   //     var hieghtThreshold = $(".product-info-wrap").offset().top;
@@ -311,4 +310,3 @@ let intersectionObserver = new IntersectionObserver(function (entries, observer)
     }
   });
 });
-
