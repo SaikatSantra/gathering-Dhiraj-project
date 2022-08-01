@@ -1,5 +1,5 @@
 
-
+console.log('github');
 
 // sticky in product page
 jQuery(function($){
